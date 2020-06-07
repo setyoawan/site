@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a48228b3ec008e21d2dab6f2da86b07a",
+    "revision": "42673935ab64c302a9fa806a6f0b0b75",
     "url": "/site/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "90e6716777c182df81d5",
-    "url": "/site/static/css/main.ae471f10.chunk.css"
+    "revision": "b3521159d3e36a2b5033",
+    "url": "/site/static/css/main.24effb1b.chunk.css"
   },
   {
     "revision": "8c7c0a223a87b054d480",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/js/2.eda23c15.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90e6716777c182df81d5",
-    "url": "/site/static/js/main.1569cbf1.chunk.js"
+    "revision": "b3521159d3e36a2b5033",
+    "url": "/site/static/js/main.768694be.chunk.js"
   },
   {
     "revision": "5c15a8345eacfa8093a3",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/site/static/media/bwa.7944590a.png"
   },
   {
-    "revision": "41a3e1c9da08f1a3f0a9716c4280a8be",
-    "url": "/site/static/media/cisco.41a3e1c9.png"
+    "revision": "4c75a49eac0aaa0c8b8889086e10b9cc",
+    "url": "/site/static/media/cisco.4c75a49e.png"
   },
   {
-    "revision": "c13b8fef706058966349be06422f25d0",
-    "url": "/site/static/media/home-banner.c13b8fef.jpg"
+    "revision": "dd57883f4d766df9c7dbe29daa203dd4",
+    "url": "/site/static/media/header-teamwork.dd57883f.svg"
   },
   {
     "revision": "2b78beaf84dabe8a1e13f54af19a4f35",
