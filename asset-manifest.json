@@ -1,34 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.350c3e36.chunk.css",
-    "main.js": "/static/js/main.e08e910f.chunk.js",
-    "main.js.map": "/static/js/main.e08e910f.chunk.js.map",
+    "main.css": "/static/css/main.a0fba070.chunk.css",
+    "main.js": "/static/js/main.a0d17580.chunk.js",
+    "main.js.map": "/static/js/main.a0d17580.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.332b42a5.js",
     "runtime-main.js.map": "/static/js/runtime-main.332b42a5.js.map",
     "static/css/2.4819d237.chunk.css": "/static/css/2.4819d237.chunk.css",
-    "static/js/2.eda23c15.chunk.js": "/static/js/2.eda23c15.chunk.js",
-    "static/js/2.eda23c15.chunk.js.map": "/static/js/2.eda23c15.chunk.js.map",
+    "static/js/2.214d4fd5.chunk.js": "/static/js/2.214d4fd5.chunk.js",
+    "static/js/2.214d4fd5.chunk.js.map": "/static/js/2.214d4fd5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.caff91784522d349b83733f899bb8f96.js": "/precache-manifest.caff91784522d349b83733f899bb8f96.js",
+    "precache-manifest.ff2efa2522b86a11e745e62dc41b2bf8.js": "/precache-manifest.ff2efa2522b86a11e745e62dc41b2bf8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/static/css/2.4819d237.chunk.css.map",
-    "static/css/main.350c3e36.chunk.css.map": "/static/css/main.350c3e36.chunk.css.map",
-    "static/js/2.eda23c15.chunk.js.LICENSE.txt": "/static/js/2.eda23c15.chunk.js.LICENSE.txt",
+    "static/css/main.a0fba070.chunk.css.map": "/static/css/main.a0fba070.chunk.css.map",
+    "static/js/2.214d4fd5.chunk.js.LICENSE.txt": "/static/js/2.214d4fd5.chunk.js.LICENSE.txt",
     "static/media/awan.png": "/static/media/awan.90e5b4d7.png",
     "static/media/bangkalan.png": "/static/media/bangkalan.dc10e1e8.png",
-    "static/media/App.css": "/static/media/workhard.91239cc8.jpg",
+    "static/media/App.css": "/static/media/workhard-min.e9559304.jpg",
     "static/media/bwa.png": "/static/media/bwa.7944590a.png",
     "static/media/cisco.png": "/static/media/cisco.4c75a49e.png",
     "static/media/movie-sap.png": "/static/media/movie-sap.2b78beaf.png",
     "static/media/setyo.jpg": "/static/media/setyo.82228cca.jpg",
+    "static/media/sk.png": "/static/media/sk.3223f201.png",
     "static/media/socah.png": "/static/media/socah.9c2e8c84.png",
-    "static/media/utm.png": "/static/media/utm.929ffc8b.png"
+    "static/media/utm-min.png": "/static/media/utm-min.4dcdfde2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.332b42a5.js",
     "static/css/2.4819d237.chunk.css",
-    "static/js/2.eda23c15.chunk.js",
-    "static/css/main.350c3e36.chunk.css",
-    "static/js/main.e08e910f.chunk.js"
+    "static/js/2.214d4fd5.chunk.js",
+    "static/css/main.a0fba070.chunk.css",
+    "static/js/main.a0d17580.chunk.js"
   ]
 }
